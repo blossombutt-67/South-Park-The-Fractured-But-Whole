@@ -204,4 +204,4 @@ This repository serves as the official landing page for South Park: The Fracture
 **Get the most recent version of South Park: The Fractured But Whole today!**
 
 ---
-**Last updated:** 2026-11-12 17:56:55 UTC
+**Last updated:** 2026-11-12 23:25:28 UTC
